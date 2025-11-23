@@ -1,6 +1,7 @@
 Mcdonalds,Artisan Grilled Chicken Sandwich,380,60,7,2,0,95,1110,44,3,11,37,4,20,20,Other
 Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,280,31,10,0.5,155,1940,62,2,18,55,6,25,20,Other
 Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,180,20,7,0,125,1150,48,3,11,42,10,20,35,Other
+Mcdonalds,Lobster Roll,290,50,5,1.5,0,65,630,35,2,3,24,4,6,15,Other
 Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,190,21,8,0,135,1890,50,3,14,48,4,30,30,Other
 Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,520,160,18,6,0,115,1540,50,4,12,40,8,25,30,Other
 Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,180,20,5,0,115,1550,56,4,14,41,20,25,30,Other
@@ -100,6 +101,7 @@ Taco Bell,XXL Grilled Stuft Burrito - Steak,820,320,36,12,1,70,2020,91,10,7,33,N
 Taco Bell,Grilled Steak Soft Taco,250,130,14,4,0,30,550,19,2,2,11,NA,NA,NA,Other
 Taco Bell,Fresco Grilled Steak Soft Taco,150,35,4,2,0,15,500,19,2,2,9,NA,NA,NA,Other
 Taco Bell,Cantina Power Bowl - Veggie,540,190,21,3,0,10,1310,75,14,4,14,NA,NA,NA,Other
+Taco Bell,Cheese Roll-Up,190,80,9,5,0,20,450,18,2,1,9,NA,NA,NA,Other
 Taco Bell,Express Taco Salad w/ Chips,580,260,29,9,1,60,1270,59,8,7,23,NA,NA,NA,Other
 Taco Bell,Express Taco Salad w/ Chips,580,260,29,9,1,60,1270,59,8,7,23,NA,NA,NA,Other
 Taco Bell,Fiesta Taco Salad-Beef,780,380,42,10,1,60,1340,74,11,7,26,NA,NA,NA,Other
