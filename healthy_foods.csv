@@ -1,0 +1,107 @@
+Mcdonalds,Artisan Grilled Chicken Sandwich,380,60,7,2,0,95,1110,44,3,11,37,4,20,20,Other
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,280,31,10,0.5,155,1940,62,2,18,55,6,25,20,Other
+Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,180,20,7,0,125,1150,48,3,11,42,10,20,35,Other
+Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,190,21,8,0,135,1890,50,3,14,48,4,30,30,Other
+Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,520,160,18,6,0,115,1540,50,4,12,40,8,25,30,Other
+Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,180,20,5,0,115,1550,56,4,14,41,20,25,30,Other
+Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630,200,22,7,0,135,1930,61,4,18,48,4,30,25,Other
+Mcdonalds,Premium Asian Salad w/o Chicken,140,70,7,0.5,0,0,20,13,5,7,7,180,45,10,Other
+Mcdonalds,Premium Asian Salad w/ Grilled Chicken,270,80,9,1,0,80,740,18,5,10,31,180,70,10,Other
+Mcdonalds,Premium Asian Salad w/ Crispy Chicken,490,250,28,8,0,95,1120,28,4,4,33,180,60,15,Other
+Mcdonalds,Premium Bacon Ranch Salad w/o Chicken,190,110,12,5,0,40,660,9,3,3,14,180,50,15,Other
+Mcdonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,320,120,14,6,0,45,1230,9,3,4,42,180,60,15,Other
+Mcdonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,490,250,28,8,0,95,1120,28,4,4,33,180,60,15,Other
+Mcdonalds,Premium Southwest Salad w/o Chicken,220,90,10,3.5,0,15,500,26,6,9,8,180,40,20,Other
+Mcdonalds,Premium Southwest Salad w/ Grilled Chicken,350,100,12,4.5,0,110,1070,27,6,9,37,180,50,20,Other
+Mcdonalds,Premium Southwest Salad w/ Crispy Chicken,520,230,25,6,0,75,960,46,8,9,28,180,40,20,Other
+Chick Fil-A,Chicken Salad Sandwich,490,170,19,3,0,80,1130,55,5,12,28,35,8,15,Other
+Chick Fil-A,4 Piece Grilled Chicken Nuggets,70,18,2,1,0,35,220,1,0,0,13,0,6,0,Other
+Chick Fil-A,6 Piece Grilled Chicken Nuggets,110,27,3,1,0,50,330,2,0,0,19,0,8,0,Other
+Chick Fil-A,8 piece Grilled Chicken Nuggets,140,36,4,1,0,70,440,2,0,0,25,0,10,2,Other
+Chick Fil-A,12 Piece Grilled Chicken Nuggets,210,45,5,1,0,100,670,3,0,1,38,0,20,2,Other
+Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,430,108,12,4.5,0,85,1310,47,5,9,33,NA,25,25,Other
+Chick Fil-A,Regular Grilled Chicken Sub Sandwich,450,117,13,6,0,75,1000,48,4,10,34,NA,50,25,Other
+Chick Fil-A,Chargrilled Chicken Cool Wrap,350,126,14,5,0,60,960,29,15,3,37,60,35,35,Other
+Sonic,Veggie Burger W/ Ketchup,450,130,14,4,0,10,1410,67,5,11,15,6,8,25,Other
+Sonic,Veggie Burger With Mustard,450,130,14,4,0,10,1350,64,5,8,15,6,8,27,Other
+Sonic,Veggie Burger W/ Mustard,450,130,14,4,0,10,1300,64,5,8,15,6,8,25,Other
+Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,270,30,7,0,110,1570,44,3,8,40,11,20,16,Other
+Sonic,Grilled Chicken Sandwich,430,180,20,4,0,80,940,33,2,6,28,6,8,10,Other
+Arbys,Pecan Chicken Salad Flatbread,710,410,46,7,0.5,65,980,53,4,9,22,NA,NA,NA,Other
+Arbys,Pecan Chicken Salad Sandwich,840,400,44,6,0.5,75,1210,81,6,20,33,10,8,25,Other
+Arbys,Roast Turkey & Swiss Wrap,520,240,27,9,0,65,1640,39,4,6,30,20,10,35,Other
+Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,310,34,11,0.5,85,2130,39,4,6,37,20,10,30,Other
+Arbys,Chopped Side Salad,70,45,5,2.5,0,15,100,4,1,2,5,35,10,10,Other
+Arbys,Crispy Chicken Farmhouse Salad,430,220,24,8,0,65,1000,26,4,4,28,60,20,25,Other
+Arbys,Greek Gyro Salad,420,340,37,9,0,55,700,11,2,4,10,NA,NA,NA,Other
+Arbys,Roast Turkey Farmhouse Salad,230,120,13,7,0,55,870,8,2,5,22,60,20,25,Other
+Arbys,Super Greek Salad,720,480,53,15,0,85,1310,39,5,7,22,NA,NA,NA,Other
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,360,40,12,0,150,1540,18,3,6,42,NA,NA,NA,Other
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,450,50,13,0,120,1960,32,5,7,36,NA,NA,NA,Other
+Burger King,Chicken BLT Salad w/ Grilled Chicken,550,330,37,10,0,115,1640,17,3,5,36,NA,NA,NA,Other
+Burger King,Chicken BLT Salad w/ Crispy Chicken,690,430,48,12,1,100,1750,31,4,8,35,NA,NA,NA,Other
+Burger King,Chicken Caesar Salad w/ Grilled Chicken,530,290,32,5,0,95,1640,26,3,6,35,NA,NA,NA,Other
+Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,380,43,7,0,80,1760,40,5,8,34,NA,NA,NA,Other
+Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,270,30,7,0,90,980,40,4,34,29,NA,NA,NA,Other
+Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,370,41,9,0,80,1090,54,5,37,28,NA,NA,NA,Other
+Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,120,14,6,0,115,650,16,2,4,36,NA,NA,NA,Other
+Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,220,24,7,0,85,1070,30,5,6,29,NA,NA,NA,Other
+Burger King,Side Caesar Salad with dressing,220,180,20,4,0,10,540,7,2,3,6,NA,NA,NA,Other
+Burger King,Side Garden Salad and Avocado Ranch Dressing,230,190,21,5,0,30,520,7,2,3,5,NA,NA,NA,Other
+Burger King,Grilled Chicken Sandwich,470,170,19,3.5,0,85,850,39,2,6,37,NA,NA,NA,Other
+Burger King,Grilled Chili Cheese Dog,330,170,19,8,1,40,980,28,2,5,14,NA,NA,NA,Other
+Burger King,Grilled Hot Dog,310,140,16,6,1,30,960,32,2,10,11,NA,NA,NA,Other
+Dairy Queen,Crispy Chicken BLT Salad,520,280,31,10,0,100,1470,25,9,6,37,NA,NA,NA,Other
+Dairy Queen,Crispy Chicken Garden Greens Salad,280,120,13,2,0,40,670,24,9,6,17,NA,NA,NA,Other
+Dairy Queen,Crispy Chicken Wrap,350,190,21,5,0,35,820,30,2,1,12,10,2,10,Other
+Dairy Queen,Grilled Chicken BLT Salad,380,170,19,9,0,100,1540,11,3,6,42,NA,NA,NA,Other
+Dairy Queen,Grilled Chicken Garden Greens Salad,150,20,2,0.5,0,40,730,10,3,6,23,NA,NA,NA,Other
+Dairy Queen,Grilled Chicken Sandwich,360,140,15,3,0,50,1040,32,1,5,25,10,8,6,Other
+Dairy Queen,Grilled Chicken Wrap,280,130,15,4,0,30,800,22,1,1,15,10,4,10,Other
+Dairy Queen,Side Salad,20,0,0,0,0,0,15,5,2,3,1,50,30,15,Other
+Subway,Kids Mini Sub Veggie Delite,150,15,2,0,0,0,190,29,3,4,6,6,15,20,Other
+Subway,"6"" Veggie Delite",230,20,3,1,0,0,310,44,5,6,8,8,20,30,Other
+Subway,Footlong Veggie Delite,460,40,6,2,0,0,620,88,10,12,16,16,40,60,Other
+Subway,"6"" Veggie Patty",390,70,7,1,0,10,800,56,8,8,23,15,20,35,Other
+Subway,Footlong Veggie Patty,780,140,14,2,0,20,1600,112,16,16,46,30,20,70,Other
+Subway,Autumn Carved Turkey Salad,300,80,9,3,0,60,1120,26,3,22,25,40,40,15,Other
+Subway,B.L.T. Salad,150,70,8,4,0,20,420,10,4,5,10,50,50,6,Other
+Subway,Big Hot Pastrami Melt Salad,400,300,29,11,0,85,1250,12,4,4,23,25,70,10,Other
+Subway,Big Philly Cheesesteak Salad,330,140,16,8,1,85,1080,17,5,6,32,60,50,25,Other
+Subway,Black Forest Ham Salad,110,25,3,1,0,20,590,11,4,6,12,25,45,4,Other
+Subway,Buffalo Chicken Salad (with Ranch dressing),360,230,26,4,0,60,1100,13,4,6,20,50,60,8,Other
+Subway,Carved Turkey & Bacon w/ Cheese Salad,280,110,12,4.5,0,65,1320,11,4,5,28,50,50,15,Other
+Subway,Carved Turkey Salad,150,30,4,0,0,45,680,8,3,3,19,40,40,6,Other
+Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,340,38,12,1,100,1040,14,4,7,30,60,60,30,Other
+Subway,Cold Cut Combo Salad,180,95,11,4,0,45,820,12,4,5,12,50,50,10,Other
+Subway,Double Chicken Salad,220,35,5,1.5,0,100,490,10,4,4,36,50,60,8,Other
+Subway,Italian B.M.T.® Salad,230,135,15,6,0,45,1060,12,4,6,14,50,50,6,Other
+Subway,Italian Hero Salad,230,140,15,5,0,45,1060,13,4,8,14,40,60,4,Other
+Subway,Meatball Marinara Salad,310,150,17,7,1,30,720,25,6,10,16,60,70,10,Other
+Subway,Oven Roasted Chicken Salad,140,25,3,0.5,0,50,280,10,4,4,19,50,60,8,Other
+Subway,Roast Beef Salad,140,30,4,1,0,40,450,10,4,5,18,25,45,4,Other
+Subway,Spicy Italian Salad,310,205,23,9,1,50,1280,11,4,6,15,50,50,8,Other
+Subway,Steak & Cheese Salad,210,75,8,4,0,50,830,14,4,6,20,50,50,15,Other
+Subway,Subway Club Salad,140,30,4,1,0,40,640,11,4,5,17,25,45,6,Other
+Subway,Subway Melt® Salad,200,85,10,5,0,45,910,13,4,6,18,50,50,15,Other
+Subway,Sweet Onion Chicken Teriyaki Salad,200,25,3,1,0,50,660,24,4,16,20,25,50,6,Other
+Subway,Tuna Salad,310,215,24,4,0,40,370,10,4,4,15,50,50,6,Other
+Subway,Turkey Breast & Ham Salad,110,20,3,1,0,25,580,11,4,5,12,25,45,6,Other
+Subway,Turkey Breast Salad,110,20,2,1,0,20,570,11,4,5,12,25,45,6,Other
+Subway,Veggie Delite Salad,50,10,1,0,0,0,65,9,4,4,3,25,45,4,Other
+Subway,Chipotle Southwest Steak & Cheese Wrap,760,330,37,12,1,100,2250,65,4,7,43,15,45,30,Other
+Subway,Rotisserie-Style Chicken Caesar Wrap,730,310,34,10,0.5,135,1900,53,3,4,55,15,8,45,Other
+Subway,"Turkey, Bacon & Guacamole Wrap",810,380,42,13,0.5,75,2970,62,3,6,43,10,30,30,Other
+Subway,Cheese & Veggies Pizza,740,230,25,11,0,50,1270,100,5,9,36,35,30,60,Other
+Taco Bell,Cantina Power Burrito - Veggie,740,230,26,5,0,10,1750,107,17,8,20,NA,NA,NA,Other
+Taco Bell,XXL Grilled Stuft Burrito - Beef,880,380,42,14,1,75,2020,94,12,6,31,NA,NA,NA,Other
+Taco Bell,XXL Grilled Stuft Burrito - Chicken,830,320,35,11,0,85,1940,91,10,6,37,NA,NA,NA,Other
+Taco Bell,XXL Grilled Stuft Burrito - Steak,820,320,36,12,1,70,2020,91,10,7,33,NA,NA,NA,Other
+Taco Bell,Grilled Steak Soft Taco,250,130,14,4,0,30,550,19,2,2,11,NA,NA,NA,Other
+Taco Bell,Fresco Grilled Steak Soft Taco,150,35,4,2,0,15,500,19,2,2,9,NA,NA,NA,Other
+Taco Bell,Cantina Power Bowl - Veggie,540,190,21,3,0,10,1310,75,14,4,14,NA,NA,NA,Other
+Taco Bell,Express Taco Salad w/ Chips,580,260,29,9,1,60,1270,59,8,7,23,NA,NA,NA,Other
+Taco Bell,Express Taco Salad w/ Chips,580,260,29,9,1,60,1270,59,8,7,23,NA,NA,NA,Other
+Taco Bell,Fiesta Taco Salad-Beef,780,380,42,10,1,60,1340,74,11,7,26,NA,NA,NA,Other
+Taco Bell,Fiesta Taco Salad-Chicken,720,320,35,7,0,70,1260,70,8,8,32,NA,NA,NA,Other
+Taco Bell,Fiesta Taco Salad-Steak,720,320,36,8,1,55,1340,70,8,8,28,NA,NA,NA,Other
