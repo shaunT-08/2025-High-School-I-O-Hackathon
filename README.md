@@ -21,5 +21,3 @@ Group Goal: Analyzing foods that are marketed as Healthy alternatives
 | **Vitamin A**     | ~320–350 mcg   
 | **Vitamin C**     | ~60–70 mg      
 | **Calcium**       | ~350–450 mg    
-
-Heres a set of numbers(spaces indicate a new number):[660	234	26	5.5	0	95	725	92.5	10.5	20	30	335	65	400]. The set always needs to be 14 so I will give you other sets of numbers and for those sets find the %error from the set I gave you above(which is the theoretical) to the set I will give you later. Then, from those %errors you calculate find the average of those 14%errors. okay, just exclude the 5th data point from both the theoretical set and actual set when doing calculations
